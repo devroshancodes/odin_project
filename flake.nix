@@ -21,9 +21,6 @@
 
 					shellHook = ''
 						echo "Ready for Web Design in VS Code!"
-						cd ./odin-recipes 
-						live-server
-						echo "Server started"
 						'';
 				};
 			}
